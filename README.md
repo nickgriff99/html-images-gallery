@@ -45,7 +45,7 @@ This assignment should prove that a student is able to:
   - [x] Use `npm run browser-install` to install the browser environment for testing (~131mb will be downloaded)
   - [x] (Windows users only) Use `npm run deps-install` to install playwright additional dependencies (~160mb will be downloaded)
 - [x] All the tasks of the "Specific requirements" section MUST be solved
-- [ ] **The project's file/folder structure should NOT be edited!**
+- [x] **The project's file/folder structure should NOT be edited!**
 - [ ] All the tests MUST pass. Fix the errors in case they don't BEFORE you submit (acceptance criteria)
   - [ ] Use `npm run test` to run all tests in the terminal
   - [ ] Use `npm run test-main` to run index.html file tests
