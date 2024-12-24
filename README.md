@@ -67,17 +67,17 @@ This assignment should prove that a student is able to:
 - [x] Connect the scripts.js file
 - [x] Connect the layout.css file
 - [x] Connect the images-list.css file
-- [ ] Add the image file path for each gallery item's image
+- [x] Add the image file path for each gallery item's image
   - Plants: plant-image.jpg
   - Nature: nature-image.jpg
   - Modern Design: design-image.jpg
   - Space: space-image.jpg
-- [ ] Add the detail page path for each gallery item's "Details" link:
+- [x] Add the detail page path for each gallery item's "Details" link:
   - Plants: plants.html
   - Nature: nature.html
   - Modern Design: modern-design.html
   - Space: space.html
-- [ ] Add the detail page path for each top navigation item:
+- [x] Add the detail page path for each top navigation item:
   - Plants: plants.html
   - Nature: nature.html
   - Modern Design: modern-design.html
